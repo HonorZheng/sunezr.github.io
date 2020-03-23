@@ -733,7 +733,7 @@ sns.distplot(y, kde=False, fit=st.johnsonsu) # st.norm, st.lognorm
 
 
 
-![png](../images/DW/11th/Task2/output_12_1.png)
+![png](/images/DW/11th/Task2/output_12_1.png)
 
 
 
@@ -859,7 +859,7 @@ sns.heatmap(correlation, square = True, vmax=0.8, annot=True)
 
 
 
-![png](../images/DW/11th/Task2/output_17_1.png)
+![png](/images/DW/11th/Task2/output_17_1.png)
 
 
 ### Scatter plot
@@ -873,7 +873,7 @@ plt.show()
 ```
 
 
-![png](../images/DW/11th/Task2/output_19_1.png)
+![png](/images/DW/11th/Task2/output_19_1.png)
 
 
 ## Generate report 
