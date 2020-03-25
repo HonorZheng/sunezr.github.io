@@ -16,7 +16,7 @@ Fast.ai提供了一个模板以及完善的操作流程：https://www.fast.ai/20
 ## 基本操作
 
 ### Post
-在_post中增加.md文件即可发布。如需添加图片需先将图片放入Image文件夹内，使用链接"image/..."引用图片。
+在_post中增加.md文件即可发布。如需添加图片需先将图片放入Image文件夹内，使用链接![Image description](images/filename.jpg)引用图片。
 
 ### Github Desktop
 使用Github Desktop File -> clone repository 后即可在本地操作后批量更新。
