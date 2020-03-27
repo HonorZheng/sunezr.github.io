@@ -16,7 +16,7 @@
 ## 基本操作
 
 ### Post
-在_post中增加.md文件即可发布。欲添加图片，需先将图片放入Image文件夹内，使用链接(去掉+)!+[Image description]+(images/filename.jpg)引用图片。
+在_post中增加.md文件即可发布。欲添加图片，需先将图片放入Image文件夹内，使用链接(去掉+)!+[Image description]+(/images/filename.jpg)引用图片。
 
 ### Github Desktop
 使用Github Desktop File -> clone repository 后即可在本地操作后批量更新。

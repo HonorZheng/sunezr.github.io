@@ -871,7 +871,7 @@ train_data = outliers_proc(train_data, 'power', scale=3) # 只能删除train_dat
     
 
 
-![png](images/DW/11th/Task3/output_10_1.png)
+![png](/images/DW/11th/Task3/output_10_1.png)
 
 
 
@@ -1206,7 +1206,7 @@ sns.heatmap(correlation,square = True,  annot=True)
 
 
 
-![png](images/DW/11th/Task3/output_33_1.png)
+![png](/images/DW/11th/Task3/output_33_1.png)
 
 
 ### 2) 包裹式
